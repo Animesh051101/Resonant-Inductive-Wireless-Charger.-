@@ -1,2 +1,5 @@
-# Density Based Traffic Light Control System
-Designed and implemented a density-based traffic signal control system to dynamically adjust signal timing ac- cording to real-time traffic density. Developed the system to reduce vehicle waiting time and improve traffic flow efficiency at intersections.
+# Resonant Inductive Wireless Charger 
+Designed and implemented a 1 MHz wireless power-transfer system using self-resonant Tx/Rx coils, a CD40106
+Schmitt-trigger oscillator and IRF510-based MOSFET driver.
+Assembled and tested the complete prototype on perfboard, implementing high-frequency AC rectification, filtering,
+and voltage regulation to obtain a regulated 5 V DC output.
